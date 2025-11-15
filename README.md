@@ -28,13 +28,15 @@ CycleGAN использует две пары моделей:
 300 оцифрованных картин Клода Моне.
 
 
- <img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/31fb08c8-9872-4369-bd8c-29e37d987199" /> <img width="295" height="296" alt="image" src="https://github.com/user-attachments/assets/bd17d0ed-443f-491e-9417-62af828f1816" />
+<img width="292" height="291" alt="image" src="https://github.com/user-attachments/assets/b3bffa5f-0f65-433f-8b78-62c4f1360ef0" /> <img width="291" height="290" alt="image" src="https://github.com/user-attachments/assets/730cd67e-c7d8-4bcd-965c-d6aabed208c3" /> <img width="290" height="291" alt="image" src="https://github.com/user-attachments/assets/1a14caf7-376d-4d37-9122-9d385ffaecaa" />
 
 
 - Фотографии:
 7028 современных различных фотографий.
 
-<img width="300" height="299" alt="image" src="https://github.com/user-attachments/assets/8d8987ad-c1c8-4233-ae39-741c4a9e0b25" /> <img width="297" height="297" alt="image" src="https://github.com/user-attachments/assets/7aa4f554-f256-4f20-834c-c25c7dcd67c4" />
+
+<img width="291" height="290" alt="image" src="https://github.com/user-attachments/assets/e40aeca3-2ed7-4745-8d8f-681710321de1" /> <img width="291" height="291" alt="image" src="https://github.com/user-attachments/assets/02fd76dd-cb1c-47fb-b69c-866e1369707e" /> <img width="291" height="291" alt="image" src="https://github.com/user-attachments/assets/adddbd2c-01ed-41be-910f-5d97723ee63e" />
+
 
 Для оптимизации времени обучения (из-за ограничений в соревновании) было случайным образом отобрано 1000 изображений.
 
