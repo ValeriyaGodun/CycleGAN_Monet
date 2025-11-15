@@ -27,7 +27,8 @@ CycleGAN использует две пары моделей:
 - Картины Моне:
 300 оцифрованных картин Клода Моне.
 
-<img width="314" height="310" alt="image" src="https://github.com/user-attachments/assets/43409dd2-ef26-497e-b85e-5a716ae62a18" /> <img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/31fb08c8-9872-4369-bd8c-29e37d987199" />
+<img width="297" height="297" alt="image" src="https://github.com/user-attachments/assets/7aa4f554-f256-4f20-834c-c25c7dcd67c4" />
+ <img width="299" height="299" alt="image" src="https://github.com/user-attachments/assets/31fb08c8-9872-4369-bd8c-29e37d987199" />
 
 - Фотографии:
 7028 современных различных фотографий.
